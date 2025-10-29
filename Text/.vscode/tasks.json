@@ -3,7 +3,7 @@
         {
             "type": "cppbuild",
             "label": "C/C++: g++.exe generates active files",
-            "command": "E:\\\\VS Code\\\\MinGW64\\\\bin\\\\g++.exe",
+            "command": "<path_to_g++.exe>(Needs to be modified)",
             "args": [
                 "-g",
                 "-std=c++14",
@@ -21,7 +21,7 @@
                 "$gcc"
             ],
             "group": "build",
-            "detail": "Compiler: E:\\\\VS Code\\\\MinGW64\\\\bin\\\\g++.exe"
+            "detail": "Compiler: <path_to_g++.exe>(Needs to be modified)"
         }
     ],
     "version": "2.0.0"

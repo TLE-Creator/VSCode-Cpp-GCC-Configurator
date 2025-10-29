@@ -11,7 +11,7 @@
                 "_UNICODE"
             ],
             "windowsSdkVersion": "10.0.22000.0",
-            "compilerPath": "E:\\\\VS Code\\\\MinGW64\\\\bin\\\\g++.exe",
+            "compilerPath": "<path_to_g++.exe>(Needs to be modified)",
             "cStandard": "c17",
             "cppStandard": "c++14",
             "intelliSenseMode": "windows-gcc-x64"
