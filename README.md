@@ -10,7 +10,7 @@ An automated script designed specifically for C++ beginners and developers who w
 
 - Before use, check configuration files (.json, .bat) to ensure VS Code points to the correct compiler and workspace.
 
-- If you don't want to carry many files, keep only built.bat and built_vscode.bat; running built_vscode.bat will automatically generate tasks.json, launch.json and other files required for running and debugging.
+- If you don't want to carry many files, keep only built.bat and built_vscode.bat; running built_vscode.bat will automatically generate tasks.json, launch.json and other files required for running and debugging. Precautions, Before use, modify the paths of each compiler in the.json file!
 
 ## 2. Running
 
