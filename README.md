@@ -26,4 +26,4 @@ An automated script designed specifically for C++ beginners and developers who w
 
 ## 4. Start quickly
 
-- The.JSON file has been configured in the repository. VSCode can automatically recognize it and use it quickly
+- The VSCode portable configuration folder is now available in the distribution. Just download it and you can use it.
